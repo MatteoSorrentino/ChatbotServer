@@ -92,6 +92,7 @@ namespace ChatbotServer
 
             Console.WriteLine("Programma terminato. Premere Enter per uscire...");
             Console.ReadLine();
+
         }
     }
 }
